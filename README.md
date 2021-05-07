@@ -1,7 +1,7 @@
 # csgoawoo
 csgo awoo language
 
-I don't know why I spent the time making this or why you care enought to read my README.
+I don't know why I spent the time making this or why you care enough to read my README.
 
 If you actually want to use this for some ungodly reason, here is how its done:
 
